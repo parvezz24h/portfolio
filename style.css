@@ -1258,7 +1258,7 @@ body {
     }
 
     .hero {
-        flex-direction: column;
+        flex-direction: column-reverse;
         text-align: center;
         padding: 80px 20px 50px;
         min-height: auto;
